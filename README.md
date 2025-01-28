@@ -1,1 +1,1 @@
-A portfolio made with html and css. No libraries/frameworks used.
+A portfolio made with html, javascript, and css. No libraries/frameworks used.
